@@ -15,6 +15,12 @@ Full-stack & Web3 developer specializing in DeFi automation and web development 
 - **Development Tools**: Git, VS Code, Docker
 - **Other Skills**: REST APIs, Database Design, UI/UX
 
+## 💻 Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fl3xxRichie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
 ## 💪 Expertise
 
 - Developing automated farming scripts for DeFi protocols
@@ -34,7 +40,7 @@ Full-stack & Web3 developer specializing in DeFi automation and web development 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fl3xxRichie&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fl3xxRichie&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fl3xxRichie&theme=radical" alt="" />
 </div>
 
 ## 🎯 Current Focus
