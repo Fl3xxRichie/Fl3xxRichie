@@ -2,27 +2,29 @@
   <img src="ss.png" alt="Flexx Richie Banner"/>
 </div>
 
-# 👋 Hi, I'm Flexx Richie
+# Flexx Richie
 
-🚀 Full-stack & Web3 Developer | DeFi Automation Specialist | SaaS & eCommerce Builder | Desktop Application Developer
+Full-stack & Web3 developer. Security researcher, red teamer, tool builder, OSINT, DeFi automation, proxy infrastructure, AI safety testing.
 
----
-
-## 🌐 My Digital Presence
-
-🌍 **Main Website:** [flexxrichie.xyz](https://flexxrichie.xyz)
-💼 **Portfolio:** [portfolio.flexxrichie.xyz](https://portfolio.flexxrichie.xyz)
+> **Disclaimer:** All security and red team tooling in this profile is intended for educational purposes and authorized security research only. Use must comply with applicable laws and regulations. I am not responsible for misuse of any code or tools shared here.
 
 ---
 
-## 🛠️ Tech Stack
+## Digital Presence
+
+**Main Website:** [flexxrichie.xyz](https://flexxrichie.xyz)
+**Portfolio:** [portfolio.flexxrichie.xyz](https://portfolio.flexxrichie.xyz)
+
+---
+
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -33,65 +35,23 @@
 
 ---
 
-## 💼 Skills & Expertise
+## Expertise
 
-### 🧠 Web3 & DeFi Automation
-- Smart contract integration and deployment
-- Automated yield farming scripts and strategies
-- Token sniping and trading bots with real-time analytics
-- Cross-chain automation and bridging solutions
-- MEV (Maximum Extractable Value) optimization tools
-
-### 🖥️ Desktop Application Development
-- Cross-platform executable applications
-- Email automation and mass sender applications
-- SMS to SMTP gateway solutions
-- System integration and API connectivity
-- User-friendly GUI development with modern frameworks
-
-### 🌐 SaaS Development
-- Building scalable, multi-tenant SaaS applications
-- Microservices architecture and containerization
-- API integrations and third-party services
-- Cloud computing (AWS, GCP, Azure) and deployment
-- Data management and security compliance (GDPR, SOC 2)
-- MVP development and iterative scaling strategies
-
-### 🛒 eCommerce Solutions
-- Custom eCommerce platforms with advanced features
-- CMS expertise: Shopify Plus, WordPress, Magento Commerce
-- Payment gateway integrations (Stripe, PayPal, crypto payments)
-- Performance optimization and technical SEO
-- Conversion rate optimization and A/B testing
-- Inventory management and supply chain integration
-
-### 🖥️ Full-Stack Web Development
-- Frontend: React.js, Next.js, Vue.js, TypeScript
-- Backend: Node.js, Django, FastAPI, Express.js
-- RESTful API and GraphQL design
-- Database design (PostgreSQL, MongoDB, Redis)
-- Responsive UI/UX design with modern frameworks
-- Progressive Web Applications (PWA) development
-
-### 🔐 DevOps & Security
-- CI/CD pipeline automation
-- Infrastructure as Code (Terraform, AWS CDK)
-- Security auditing and penetration testing
-- SSL/TLS implementation and certificate management
-- Load balancing and performance monitoring
+- Web3 / DeFi: token sniping, MEV optimization, yield farming automation, cross-chain bridging, TON/ETH tooling
+- Red team / offensive security: offensive security research, OSINT recon, API leak scanning, Telegram scraping and automation, SMTP testing tools, jailbreak prompt research, A/B testing for security awareness
+- Proxy infrastructure: proxy checker tools, bandwidth scanning, reselling platform development, camoufox-based scraping
+- Desktop apps: Electron, cross-platform executables, system integration, email automation suites
+- Full-stack: Next.js, React, Django, Node/Express, Flask, TypeScript/JavaScript, Python, C#
+- Infra: Docker, CI/CD, VPS management, phone number generation, lead scraping, C2 frameworks
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fl3xxRichie&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fl3xxRichie&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Fl3xxRichie&theme=radical" alt="Streak Stats" />
 </div>
-
----
-
-## 💻 Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fl3xxRichie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -99,33 +59,62 @@
 
 ---
 
-## 🏆 Recent Projects & Applications
+## Tooling & Projects
 
-### Desktop Applications
-- **📧 Advanced Email Sender**: Multi-threaded email automation tool with template management
-- **📱 SMS to SMTP Gateway**: Seamless SMS-to-email conversion application with logging
-- **⚡ System Utilities Suite**: Collection of productivity-enhancing desktop tools
+### Red Team & OSINT
+- **[evilginx2](https://github.com/Fl3xxRichie/evilginx2)** - Reverse proxy phishing framework for authorized red team exercises and security awareness testing
+- **[API-LEAK-SCAN](https://github.com/Fl3xxRichie/API-LEAK-SCAN)** - Scans public repos and web for leaked API keys (CLI + Flask dashboard)
+- **[TELEGRAM-SCRAPER](https://github.com/Fl3xxRichie/TELEGRAM-SCRAPER)** - Telegram data collection tool for research purposes
+- **[TeleGhost](https://github.com/Fl3xxRichie/TeleGhost)** - Telegram automation utility
+- **[proxy-checker](https://github.com/Fl3xxRichie/proxy-checker)** - Proxy validation and IP information tool
+- **[LEADS-SCRAPER-EXTENSION](https://github.com/Fl3xxRichie/LEADS-SCRAPER-EXTENSION)** - Chrome extension for scraping leads from LinkedIn, SERP, and generic sites
+- **[SCRAPER-LATES-CAMOUFOX](https://github.com/Fl3xxRichie/SCRAPER-LATES-CAMOUFOX)** - Camoufox-based stealth lead scraper (Intermedia email harvester)
 
-### Web Applications
-- **🔗 Custom API Aggregation Platform**: Real-time data processing and visualization
-- **💰 DeFi Portfolio Tracker**: Multi-chain asset monitoring with yield optimization
-- **🛍️ Next-Gen eCommerce Solution**: Headless commerce platform with advanced analytics
+### SMTP & Email
+- **[FLEXX-SMTP-CHECKER](https://github.com/Fl3xxRichie/FLEXX-SMTP-CHECKER)** - Concurrent SMTP credential validator with DNS routing and ISP bypass
+- **[EMAIL-GENERATOR](https://github.com/Fl3xxRichie/EMAIL-GENERATOR)** - Email generation tooling
+- **[NEW-EMAIL-SENDER](https://github.com/Fl3xxRichie/NEW-EMAIL-SENDER)** - Email sender with MX record handling
+
+### C2 & Security
+- **[GHOST-C2](https://github.com/Fl3xxRichie/GHOST-C2)** - Command and control framework for red team exercises
+- **[CL4R1T4S](https://github.com/Fl3xxRichie/CL4R1T4S)** - Security / recon tooling
+- **[Flexx-Logger](https://github.com/Fl3xxRichie/Flexx-Logger)** - Logging and monitoring utility
+
+### DeFi & Web3
+- **[Nexus-Testnet-Guide](https://github.com/Fl3xxRichie/Nexus-Testnet-Guide)** - Nexus blockchain testnet guide and faucet tooling (10 stars)
+- **[airdrop-scripts](https://github.com/Fl3xxRichie/airdrop-scripts)** - Crypto airdrop automation scripts
+- **[LayerCLI](https://github.com/Fl3xxRichie/LayerCLI)** - Layer CLI tooling (6 stars)
+- **[tonxD](https://github.com/Fl3xxRichie/tonxD)** - TON blockchain utilities
+- **[USDT](https://github.com/Fl3xxRichie/USDT)** - USDT-related tooling
+
+### AI & Automation
+- **[LLM-TESTER](https://github.com/Fl3xxRichie/LLM-TESTER)** - AI jailbreak prompt tester - validates LLM API keys and runs prompt injections against real models
+- **[Flexx-Tools](https://github.com/Fl3xxRichie/Flexx-Tools)** - General tooling collection
+
+### Utilities
+- **[TWEET-VIDEO-DOWNLOADER](https://github.com/Fl3xxRichie/TWEET-VIDEO-DOWNLOADER)** - Twitter/X video downloader (Python)
+- **[PhoneGen-Download](https://github.com/Fl3xxRichie/PhoneGen-Download)** - Phone number generation / validation tool
+- **[PHONENUMBER-GEN](https://github.com/Fl3xxRichie/PHONENUMBER-GEN)** - US phone number generator and manager
+- **[BoiTheBear](https://github.com/Fl3xxRichie/BoiTheBear)** - Tool/bot framework (5 stars, 7 forks)
+- **[AITWEET-BACKEND](https://github.com/Fl3xxRichie/AITWEET-BACKEND)** / **[AITWEET-FRONTEND](https://github.com/Fl3xxRichie/AITWEET-FRONTEND)** - AI tweet automation platform
+
+Full list: [github.com/Fl3xxRichie](https://github.com/Fl3xxRichie)
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- Advancing DeFi automation tools and yield optimization strategies
-- Scaling SaaS applications with robust, cloud-native architectures
-- Developing sophisticated desktop applications for business automation
-- Enhancing eCommerce platforms with AI-driven personalization
-- Exploring emerging blockchain protocols and Layer 2 solutions
-- Contributing to open-source Web3 and automation projects
-- Building cross-platform solutions that bridge web and desktop experiences
+- Proxy reselling infrastructure and platform development
+- AI jailbreak prompt research and LLM field testing across GPT/Claude/Gemini/Grok
+- Phishing infrastructure automation and deployment
+- Telegram scraping and OSINT tooling
+- Proxy checker and bandwidth infrastructure
+- DeFi automation: sniping bots, MEV strategies, yield optimization
+- Building open-source red team and recon tooling
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://flexxrichie.xyz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio.flexxrichie.xyz)
@@ -136,20 +125,6 @@
 
 ---
 
-## 📈 Professional Services
-
-💼 **Available for:**
-- Full-stack web development projects
-- DeFi automation and Web3 integrations
-- Custom SaaS application development
-- Desktop application development
-- eCommerce platform optimization
-- Technical consulting and architecture reviews
-
----
-
 <div align="center">
-  <i>💡 Let's connect, collaborate, and create something extraordinary together.</i>
-  <br><br>
-  <strong>🚀 Ready to transform your ideas into powerful digital solutions</strong>
+  <i>Building tools. Breaking things. Shipping code.</i>
 </div>
